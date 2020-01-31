@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:17:5-56:19
+	android:label
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:20:9-40
+	android:icon
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:19:9-38
+	android:allowBackup
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:21:9-62
+activity#com.example.sangil.pedometer.Intro
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:23:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.sangil.pedometer.Pedometer
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:31:19-72
+activity#com.example.sangil.pedometer.Settings
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:33:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:34:13-38:29
+category#android.intent.category.DEFAULT
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:37:27-73
+service#com.example.sangil.pedometer.StepService
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:41:9-76
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:41:18-73
+activity#com.example.sangil.pedometer.Water
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:45:13-57
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:44:13-62
+activity#com.example.sangil.pedometer.Exercise
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:48:13-65
+activity#com.example.sangil.pedometer.Bmi
+ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:53:13-55
+	android:name
+		ADDED from D:\Users\Gom\Desktop\Health-Yourself-master1\app\src\main\AndroidManifest.xml:52:13-60

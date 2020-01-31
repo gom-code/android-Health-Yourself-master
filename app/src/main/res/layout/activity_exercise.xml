@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+xmlns:tools="http://schemas.android.com/tools"
+
+android:layout_width="match_parent"
+
+android:layout_height="match_parent"
+    android:background="#F7F7F7"
+    android:paddingTop="20dp"
+
+>
+ <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#C5DFE2" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="운동하기"
+            android:textSize="25dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="420dp"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:background="#C5DFE2" >
+
+        <TextView
+            android:id="@+id/ellapse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="00:00:00"
+            android:textSize="50dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/ellapse" >
+
+            <Button
+                android:id="@+id/btnstart"
+                  android:layout_width="140dp"
+            android:layout_height="45dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/layout_border"
+            android:gravity="center"
+            android:textSize="20dp"
+                android:onClick="mOnClick"
+                android:text="시작" />
+
+            <Button
+                android:id="@+id/btnsplit"
+                android:layout_width="140dp"
+            android:layout_height="45dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/layout_border"
+
+            android:textSize="20dp" 
+                android:enabled="false"
+                android:onClick="mOnClick"
+                android:text="기록" />
+        </LinearLayout>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignLeft="@+id/linearLayout1"
+    android:layout_below="@+id/linearLayout1"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/split"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/linearLayout1"
+        android:layout_below="@+id/linearLayout1"
+        android:textSize="20sp" />
+</ScrollView>
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+ 
